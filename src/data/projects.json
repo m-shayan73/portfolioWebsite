@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Web Development",
+    "projects": [
+      {
+        "name": "MCKI Book Keeping",
+        "url": "https://mckibookkeeping.com/",
+        "stack": "HTML, CSS, Bootstrap",
+        "images": [
+          "/project_imgs/bookkeeping/bookkeeping-1.png",
+          "/project_imgs/bookkeeping/bookkeeping-2.png",
+          "/project_imgs/bookkeeping/bookkeeping-3.png",
+          "/project_imgs/bookkeeping/bookkeeping-4.png",
+          "/project_imgs/bookkeeping/bookkeeping-5.png",
+          "/project_imgs/bookkeeping/bookkeeping-6.png"
+        ]
+      },
+
+      {
+        "name": "Two Off Shore",
+        "url": "https://www.twooffshore.com/",
+        "stack": "HTML, CSS, Bootstrap",
+        "images": [
+          "/project_imgs/bookkeeping/bookkeeping-1.png",
+          "/project_imgs/bookkeeping/bookkeeping-2.png",
+          "/project_imgs/bookkeeping/bookkeeping-3.png",
+          "/project_imgs/bookkeeping/bookkeeping-4.png",
+          "/project_imgs/bookkeeping/bookkeeping-5.png",
+          "/project_imgs/bookkeeping/bookkeeping-6.png"
+        ]
+      }
+    ]
+  }
+]
